@@ -17,5 +17,6 @@ Uses collaborative filtering algorithms to recommend books that are relevant to 
 Includes a web UI (using streamlit) where users can search for books, input titles, and get personalized recommendations.
 
 #### How to run th project
-`git clone https://github.com/kelghiati49/Book_Recommender_system_End_2_End.git
-cd Book_Recommender_system_End_2_End`
+   `git clone https://github.com/kelghiati49/Book_Recommender_system_End_2_End.git`
+
+   `cd Book_Recommender_system_End_2_End`
